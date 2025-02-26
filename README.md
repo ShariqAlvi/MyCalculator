@@ -1,1 +1,1 @@
-Just Remote
+Just Local
